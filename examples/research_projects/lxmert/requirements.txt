@@ -34,7 +34,11 @@ jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.7
 jupyter-console==6.2.0
+
 jupyter-core==4.11.2
+
+jupyter-core==5.6.1
+
 jupyterlab-pygments==0.1.1
 kiwisolver==1.2.0
 lockfile==0.12.2
@@ -62,7 +66,11 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.7
 ptyprocess==0.6.0
 pyaml==20.4.0
+<<<<<<  dependabot/pip/examples/research_projects/decision_transformer/pip-security-group-20b89773b1
 pyarrow==14.0.1
+
+pyarrow==14.0.2
+
 pycparser==2.20
 Pygments>=2.7.4
 pyparsing==2.4.6
